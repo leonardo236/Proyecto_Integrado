@@ -1,5 +1,5 @@
 # ==========================================================
-# PROYECTO: AGENDA PERSONAL SÉNIOR
+# PROYECTO: AGENDA PERSONAL 
 # Desarrollado en Python
 #
 # ==========================================================
