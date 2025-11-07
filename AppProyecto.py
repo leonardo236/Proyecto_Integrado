@@ -188,7 +188,7 @@ def eliminar_evento():
 # FUNCIÓN PRINCIPAL (MENÚ)
 # ------------------------------------------------------------
 
-def menu():
+def main():
     """
     Muestra el menú principal del programa y gestiona
     la interacción con el usuario.
@@ -227,4 +227,4 @@ def menu():
 # ------------------------------------------------------------
 
 if __name__ == "__main__":
-    menu()
+    main()
